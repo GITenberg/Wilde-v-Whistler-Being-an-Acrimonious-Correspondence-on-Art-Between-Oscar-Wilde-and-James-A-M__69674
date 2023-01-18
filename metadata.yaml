@@ -1,0 +1,46 @@
+_repo: Wilde-v-Whistler-Being-an-Acrimonious-Correspondence-on-Art-Between-Oscar-Wilde-and-James-A-M__69674
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Whistler, James McNeill
+    aliases:
+    - Whistler, James Abbott McNeill
+    - Whistler, J. McNeill (James McNeill)
+    - Whistler, James A. McNeill (James Abbott McNeill)
+    - Whistler, J. A. MacNeill (James Abbott MacNeill)
+    - Whistler, James McNeil
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '26645'
+    url: http://www.gutenberg.org/2009/agents/26645
+    wikipedia: http://en.wikipedia.org/wiki/James_McNeill_Whistler
+  - agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2022-12-31'
+identifiers:
+  gutenberg: '69674'
+language: en
+pgterms:marc904: https://archive.org/details/wildevwhistlerbe00whis/page/n5/mode/2up
+pgterms:marc905: 20220120071019wilde
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Tim Lindell, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: privately printed,1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wilde v Whistler: Being an Acrimonious Correspondence on Art Between Oscar
+  Wilde and James A McNeill Whistler'
+url: http://www.gutenberg.org/ebooks/69674
