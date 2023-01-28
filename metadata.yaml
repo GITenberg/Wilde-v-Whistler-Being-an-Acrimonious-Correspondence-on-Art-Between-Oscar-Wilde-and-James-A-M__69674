@@ -1,5 +1,8 @@
 _repo: Wilde-v-Whistler-Being-an-Acrimonious-Correspondence-on-Art-Between-Oscar-Wilde-and-James-A-M__69674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69674-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Whistler, James McNeill
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69674#Wilde-v-Whistler-Being-an-Acrimonious-Correspondence-on-Art-Between-Oscar-Wilde-and-James-A-M_
 gutenberg_issued: '2022-12-31'
 identifiers:
   gutenberg: '69674'
